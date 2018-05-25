@@ -4,8 +4,7 @@
 - Contact me directly if you are interested in using the Form beyond demo mode.
 
 ## Purpose:
-- The form automates the ranking process of grantee candidates. 
-- The form was created for internal use by Division personnel to provide a more objective grantee determination process.
+- The form was created for internal use by Division personnel. It reduces the manual labor associated with determining grantee candidates for funding by automating the ranking process of grantee candidates and provides a more objective grantee determination process.
 
 ## Overview
 - Worksheet "Form Overview" provides:
