@@ -1,7 +1,9 @@
 # Funding-Analysis-and-Determination-Worksheet
-- Many businesses still use Excel as a primary data storage and analysis tool; to accomodate this, all files are Excel based and analysis was run using Excel.
+- Finance: Evaluation
+
 - Current worksheet is in demo mode; this allows user ability to enter notes and see results on "User Ranking Form" worksheet.
 - Contact me directly if you are interested in using the worksheet beyond demo mode.
+- Many businesses still use Excel as a primary data storage and analysis tool; to accomodate this, all files are Excel based and analysis was run using Excel.
 
 ## Purpose:
 - The worksheet was created for internal use by Division personnel. It reduces the manual labor associated with determining grantee candidates for funding by automating the ranking process of grantee candidates and provides a more objective grantee determination process.
