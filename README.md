@@ -9,7 +9,7 @@
 - File is hosted [here](https://drive.google.com/file/d/1YFKReH1ozTDovFwmeLqvfkV1LDfhMfDl/view?usp=sharing)
 
 ## Purpose:
-- The workbook was created for internal use by division personnel. It reduces the manual labor associated with determining grantee candidates for funding by automating the ranking process of grantee candidates and provides a more objective grantee determination process. Ranking is calculated in real-time.
+- The workbook was created for internal use by division personnel. It reduces the manual labor associated with determining candidates for funding by automating the ranking process of candidates and provides a more objective funding determination process. Ranking is calculated in real-time.
 
 ## Overview
 - Worksheet "Form Overview" provides:
@@ -17,33 +17,33 @@
   - benefits of the form
   - disclaimer
 - Worksheet "User Ranking Form" provides:
-  - notetaking cells for the grantee interview
+  - notetaking cells for the candidate interview
   - key terms and tally boxes that list key terms that show up in the user notes and value associated with the term
   - subtotals per question section
   - organization rank value calculated based on sum of key terms found
     - terms are counted once to avoid duplicate values and top-heavy totals
-  - percentage of total value calculated based on how many key terms the grantee candidate had out of the sum of key terms values
+  - percentage of total value calculated based on how many key terms the candidate had out of the sum of key terms values
 - (hidden)(password protected) Worksheet "Values Table" provides:
   - key terms list and weight per term
   - key terms can be changed as well as weight per user preference
   - current list of key terms (demo mode):
-    - Capacity_building
-    - Civic_engagement
-    - Community_based
-    - Community_engagement
-    - Community_lead
+    - Capacity building
+    - Civic engagement
+    - Community based
+    - Community engagement
+    - Community lead
     - Development
-    - Disaster_preparedness
+    - Disaster preparedness
     - Diversity
-    - Early_learning
-    - Early_literacy
-    - Economic_security
+    - Early learning
+    - Early literacy
+    - Economic security
     - Education
     - Elderly
-    - Emergency_readiness
-    - Environmental_education
+    - Emergency readiness
+    - Environmental education
     - Experimentation
-    - Financial_education
+    - Financial education
     - Health
     - Homelessness
     - Homeless
@@ -52,18 +52,18 @@
     - Immigration
     - Initiatives
     - Innovation
-    - Leaders_of_color
-    - Leadership_development
+    - Leaders of color
+    - Leadership development
     - Literacy
     - Local
     - Mesh
-    - Mesh_networks
+    - Mesh networks
     - Muslim
-    - People_of_color
+    - People of color
     - Regional
-    - Regional_planning
+    - Regional planning
     - Senior
-    - Senior_citizens
+    - Senior citizens
     - Impact
     - Transportation
     - Undocumented
